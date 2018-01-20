@@ -31,3 +31,6 @@ int main(){
 	cout << (CUB.type);
 	CUB.suara("degdegdeg");
 }
+void SEPEDAMOTOR::suara(string bunyi){
+	cout <<"suaranya"<<bunyi<<"!"<<endl;
+}
